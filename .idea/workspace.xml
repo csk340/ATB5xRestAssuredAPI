@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5187cc-cd37-42ce-ae7e-fda5b606d9c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Get/BDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Get/GetNonBDDTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Get/nonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Patch/FirstPatchNonBDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Post/FirstPostRequestBDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Post/PostNonBDDAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Post/PostNonBDDAuthWithExtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Post/testng-post.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/Put/NonBDDPut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CRUD/tEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FirstRATestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Pattern/BuilderDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Pattern/NonBuilderDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/allaboutTestNG/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/allaboutTestNGBasics/ok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/org.example.CRUD.Patch.FirstPatchNonBDD_results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/org.example.CRUD.Post.FirstPostRequest_results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/org.example.allaboutTestNGBasics.Test_results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c5187cc-cd37-42ce-ae7e-fda5b606d9c2" name="Changes" comment="All Codes Pushed to GitHub" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,55 +31,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.FirstRATestCase.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.NonBDDStyle.executor": "Run",
-    "Application.NonBuilderDesignPattern.executor": "Run",
-    "Application.NonDesignPattern.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/src/test/java/org/example/CRUD/Post/testng-post.xml.executor": "Run",
-    "TestNG.C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/testng.xml.executor": "Run",
-    "TestNG.FirstPatchNonBDD.PatchNonBDD.executor": "Run",
-    "TestNG.FirstPatchNonBDD.executor": "Run",
-    "TestNG.FirstPostRequest (1).executor": "Run",
-    "TestNG.FirstPostRequest.FirstPost.executor": "Run",
-    "TestNG.FirstPostRequest.executor": "Run",
-    "TestNG.GetNonBDDTestNG.executor": "Run",
-    "TestNG.GetNonBDDTestNG.negativetestcase1.executor": "Run",
-    "TestNG.GetNonBDDTestNG.negativetestcase2.executor": "Run",
-    "TestNG.GetNonBDDTestNG.positivetestcase.executor": "Run",
-    "TestNG.NonBDDPut (1).executor": "Run",
-    "TestNG.NonBDDPut (2).executor": "Run",
-    "TestNG.NonBDDPut (3).executor": "Run",
-    "TestNG.NonBDDPut.PutExtraction.executor": "Run",
-    "TestNG.NonBDDPut.executor": "Run",
-    "TestNG.NonBDDStyle.testNGMethod4.executor": "Run",
-    "TestNG.PostNonBDDAuth (1).executor": "Run",
-    "TestNG.PostNonBDDAuth.CreateToken.executor": "Run",
-    "TestNG.PostNonBDDAuth.executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction (1).executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction (2).executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction (3).executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction (4).executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction.ExtractAllThree.executor": "Run",
-    "TestNG.PostNonBDDAuthWithExtraction.executor": "Run",
-    "TestNG.Test.executor": "Run",
-    "TestNG.basic (1).executor": "Run",
-    "TestNG.basic.executor": "Run",
-    "TestNG.basic.testNGMethod.executor": "Run",
-    "TestNG.basic.testNGMethod2.executor": "Run",
-    "TestNG.ok.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/src/test/java/org/example/CRUD/Post",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.FirstRATestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonBDDStyle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonBuilderDesignPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonDesignPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/src/test/java/org/example/CRUD/Post/testng-post.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstPatchNonBDD.PatchNonBDD.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstPatchNonBDD.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstPostRequest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstPostRequest.FirstPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FirstPostRequest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetNonBDDTestNG.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetNonBDDTestNG.negativetestcase1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetNonBDDTestNG.negativetestcase2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetNonBDDTestNG.positivetestcase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDPut (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDPut (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDPut (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDPut.PutExtraction.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDPut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NonBDDStyle.testNGMethod4.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuth (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuth.CreateToken.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuth.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction.ExtractAllThree.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PostNonBDDAuthWithExtraction.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.basic (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.basic.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.basic.testNGMethod.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.basic.testNGMethod2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ok.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X/src/test/java/org/example/CRUD/Post&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AKASH KULKARNI\IdeaProjects\APIRestAssuredAutomationATB5X\src\test\java\org\example\CRUD\Post" />
@@ -234,10 +203,21 @@
       <option name="presentableId" value="Default" />
       <updated>1708938037138</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Codes Pushed to GitHub">
+      <option name="closed" value="true" />
+      <created>1709822866323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709822866323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All Codes Pushed to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Codes Pushed to GitHub" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
