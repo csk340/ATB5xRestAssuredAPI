@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AKASH KULKARNI/IdeaProjects/APIRestAssuredAutomationATB5X">
+        <classes>
+            <class name="org.example.CRUD.Get.GetNonBDDTestNG">
+                <methods>
+                    <include name="negativetestcase1"/>
+                    <include name="negativetestcase2"/>
+                    <include name="positivetestcase"/>
+                </methods>
+            </class>
+            <class name="org.example.CRUD.Get.nonBDDStyle">
+                <methods>
+                    <include name="testNGMethod"/>
+                    <include name="testNGMethod2"/>
+                    <include name="testNGMethod3"/>
+                    <include name="testNGMethod4"/>
+                    <include name="testNGMethod5"/>
+                </methods>
+            </class>
+            <class name="org.example.CRUD.Post.FirstPostRequest">
+                <methods>
+                    <include name="FirstPost"/>
+                </methods>
+            </class>
+            <class name="org.example.allaboutTestNG.basic">
+                <methods>
+                    <include name="testNGMethod"/>
+                    <include name="testNGMethod2"/>
+                    <include name="testNGMethod3"/>
+                    <include name="testNGMethod4"/>
+                    <include name="testNGMethod5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

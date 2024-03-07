@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIRestAssuredAutomationATB5X"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.008">
+    <properties></properties>
+
+
+
+            <testcase
+                name="SecondTestCase"
+                time="0.002"
+                classname="org.example.allaboutTestNGBasics.ok">
+            </testcase>
+            <testcase
+                name="firstTestCase"
+                time="0.002"
+                classname="org.example.allaboutTestNGBasics.ok">
+            </testcase>
+            <testcase
+                name="FirstTestCase"
+                time="0.004"
+                classname="org.example.allaboutTestNGBasics.ok">
+            </testcase>
+</testsuite>

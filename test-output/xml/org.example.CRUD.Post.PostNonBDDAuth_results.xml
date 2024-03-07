@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIRestAssuredAutomationATB5X"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.293">
+    <properties></properties>
+
+
+
+            <testcase
+                name="CreateToken"
+                time="3.293"
+                classname="org.example.CRUD.Post.PostNonBDDAuth">
+            </testcase>
+</testsuite>

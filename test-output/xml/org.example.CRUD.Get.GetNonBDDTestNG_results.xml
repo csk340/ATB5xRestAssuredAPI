@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIRestAssuredAutomationATB5X"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.051">
+    <properties></properties>
+
+
+
+            <testcase
+                name="negativetestcase2"
+                time="1.230"
+                classname="org.example.CRUD.Get.GetNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="negativetestcase1"
+                time="3.526"
+                classname="org.example.CRUD.Get.GetNonBDDTestNG">
+            </testcase>
+            <testcase
+                name="positivetestcase"
+                time="1.295"
+                classname="org.example.CRUD.Get.GetNonBDDTestNG">
+            </testcase>
+</testsuite>
